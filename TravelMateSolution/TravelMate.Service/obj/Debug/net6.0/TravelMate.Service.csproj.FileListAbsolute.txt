@@ -1,0 +1,17 @@
+E:\TravelMateSolution\TravelMate.Service\bin\Debug\net6.0\TravelMate.Service.deps.json
+E:\TravelMateSolution\TravelMate.Service\bin\Debug\net6.0\TravelMate.Service.dll
+E:\TravelMateSolution\TravelMate.Service\bin\Debug\net6.0\TravelMate.Service.pdb
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMate.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMate.Service.AssemblyInfoInputs.cache
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMate.Service.AssemblyInfo.cs
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMate.Service.csproj.CoreCompileInputs.cache
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMate.Service.dll
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\refint\TravelMate.Service.dll
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMate.Service.pdb
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\ref\TravelMate.Service.dll
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMate.Service.csproj.AssemblyReference.cache
+E:\TravelMateSolution\TravelMate.Service\bin\Debug\net6.0\TravelMate.Core.dll
+E:\TravelMateSolution\TravelMate.Service\bin\Debug\net6.0\TravelMate.Data.dll
+E:\TravelMateSolution\TravelMate.Service\bin\Debug\net6.0\TravelMate.Core.pdb
+E:\TravelMateSolution\TravelMate.Service\bin\Debug\net6.0\TravelMate.Data.pdb
+E:\TravelMateSolution\TravelMate.Service\obj\Debug\net6.0\TravelMa.5CBDA1C6.Up2Date

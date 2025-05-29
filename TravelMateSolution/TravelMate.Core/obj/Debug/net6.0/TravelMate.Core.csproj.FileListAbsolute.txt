@@ -1,0 +1,11 @@
+E:\TravelMateSolution\TravelMate.Core\bin\Debug\net6.0\TravelMate.Core.deps.json
+E:\TravelMateSolution\TravelMate.Core\bin\Debug\net6.0\TravelMate.Core.dll
+E:\TravelMateSolution\TravelMate.Core\bin\Debug\net6.0\TravelMate.Core.pdb
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\TravelMate.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\TravelMate.Core.AssemblyInfoInputs.cache
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\TravelMate.Core.AssemblyInfo.cs
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\TravelMate.Core.csproj.CoreCompileInputs.cache
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\TravelMate.Core.dll
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\refint\TravelMate.Core.dll
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\TravelMate.Core.pdb
+E:\TravelMateSolution\TravelMate.Core\obj\Debug\net6.0\ref\TravelMate.Core.dll

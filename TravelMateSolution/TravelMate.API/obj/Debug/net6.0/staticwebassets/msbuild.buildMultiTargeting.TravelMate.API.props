@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TravelMate.API.props" />
+</Project>

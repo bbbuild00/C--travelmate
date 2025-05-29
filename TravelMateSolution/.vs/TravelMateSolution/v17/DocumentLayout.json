@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TravelMateSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|e:\\travelmatesolution\\travelmate.service\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|solutionrelative:travelmate.service\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|E:\\TravelMateSolution\\travelmate.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|solutionrelative:travelmate.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA91EC60-05D9-40F3-B088-F5ABFC48ED0A}|TravelMate.Data\\TravelMate.Data.csproj|E:\\TravelMateSolution\\travelmate.data\\travelmatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA91EC60-05D9-40F3-B088-F5ABFC48ED0A}|TravelMate.Data\\TravelMate.Data.csproj|solutionrelative:travelmate.data\\travelmatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA91EC60-05D9-40F3-B088-F5ABFC48ED0A}|TravelMate.Data\\TravelMate.Data.csproj|E:\\TravelMateSolution\\travelmate.data\\travelmate.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA91EC60-05D9-40F3-B088-F5ABFC48ED0A}|TravelMate.Data\\TravelMate.Data.csproj|solutionrelative:travelmate.data\\travelmate.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5CD292-043C-4190-BDD8-B01DB9C0EE1B}|TravelMate.API\\TravelMate.API.csproj|E:\\TravelMateSolution\\travelmate.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5CD292-043C-4190-BDD8-B01DB9C0EE1B}|TravelMate.API\\TravelMate.API.csproj|solutionrelative:travelmate.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5CD292-043C-4190-BDD8-B01DB9C0EE1B}|TravelMate.API\\TravelMate.API.csproj|E:\\TravelMateSolution\\travelmate.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5CD292-043C-4190-BDD8-B01DB9C0EE1B}|TravelMate.API\\TravelMate.API.csproj|solutionrelative:travelmate.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5CD292-043C-4190-BDD8-B01DB9C0EE1B}|TravelMate.API\\TravelMate.API.csproj|E:\\TravelMateSolution\\travelmate.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC5CD292-043C-4190-BDD8-B01DB9C0EE1B}|TravelMate.API\\TravelMate.API.csproj|solutionrelative:travelmate.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66640C4F-F721-4534-B215-C9BAF1FEE04D}|TravelMate.Core\\TravelMate.Core.csproj|E:\\TravelMateSolution\\travelmate.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66640C4F-F721-4534-B215-C9BAF1FEE04D}|TravelMate.Core\\TravelMate.Core.csproj|solutionrelative:travelmate.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66640C4F-F721-4534-B215-C9BAF1FEE04D}|TravelMate.Core\\TravelMate.Core.csproj|E:\\TravelMateSolution\\travelmate.core\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66640C4F-F721-4534-B215-C9BAF1FEE04D}|TravelMate.Core\\TravelMate.Core.csproj|solutionrelative:travelmate.core\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|E:\\TravelMateSolution\\travelmate.service\\utils\\wechatutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|solutionrelative:travelmate.service\\utils\\wechatutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|E:\\TravelMateSolution\\travelmate.service\\travelmate.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0BC1A66-26E3-43F6-80BC-6A4BE5D922F6}|TravelMate.Service\\TravelMate.Service.csproj|solutionrelative:travelmate.service\\travelmate.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TravelMate.Data",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj",
+              "RelativeDocumentMoniker": "TravelMate.Data\\TravelMate.Data.csproj",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj",
+              "RelativeToolTip": "TravelMate.Data\\TravelMate.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T08:05:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TravelMate.API\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TravelMate.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:53:01.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.API\\Program.cs",
+              "RelativeDocumentMoniker": "TravelMate.API\\Program.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.API\\Program.cs",
+              "RelativeToolTip": "TravelMate.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:52:11.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TravelMate.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TravelMate.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:48:07.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TravelMate.Core\\Entities\\User.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Core\\Entities\\User.cs",
+              "RelativeToolTip": "TravelMate.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:59:57.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TravelMateDbContext.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Data\\TravelMateDbContext.cs",
+              "RelativeDocumentMoniker": "TravelMate.Data\\TravelMateDbContext.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Data\\TravelMateDbContext.cs",
+              "RelativeToolTip": "TravelMate.Data\\TravelMateDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:00:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Service\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "TravelMate.Service\\Implementations\\UserService.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Service\\Implementations\\UserService.cs",
+              "RelativeToolTip": "TravelMate.Service\\Implementations\\UserService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:08:54.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Core\\Response\\Result.cs",
+              "RelativeDocumentMoniker": "TravelMate.Core\\Response\\Result.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Core\\Response\\Result.cs",
+              "RelativeToolTip": "TravelMate.Core\\Response\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:03:24.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelMate.API\\appsettings.json",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.API\\appsettings.json",
+              "RelativeToolTip": "TravelMate.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T09:43:53.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeChatUtil.cs",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Service\\Utils\\WeChatUtil.cs",
+              "RelativeDocumentMoniker": "TravelMate.Service\\Utils\\WeChatUtil.cs",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Service\\Utils\\WeChatUtil.cs",
+              "RelativeToolTip": "TravelMate.Service\\Utils\\WeChatUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:34:38.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TravelMate.Service.csproj",
+              "DocumentMoniker": "E:\\TravelMateSolution\\TravelMate.Service\\TravelMate.Service.csproj",
+              "RelativeDocumentMoniker": "TravelMate.Service\\TravelMate.Service.csproj",
+              "ToolTip": "E:\\TravelMateSolution\\TravelMate.Service\\TravelMate.Service.csproj",
+              "RelativeToolTip": "TravelMate.Service\\TravelMate.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T08:46:03.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
