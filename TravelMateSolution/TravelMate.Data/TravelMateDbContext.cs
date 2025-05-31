@@ -3,30 +3,40 @@ using TravelMate.Core.Entities;
 
 namespace TravelMate.Data
 {
-	public class TravelMateDbContext : DbContext
-	{
-		// ✅ 仅保留真正需要数据库表映射的实体
-		public DbSet<User> Users { get; set; }
-		public DbSet<Itinerary> Itineraries { get; set; }
-		public DbSet<Event> Events { get; set; }
-		public DbSet<Budget> Budgets { get; set; }
-		public DbSet<Expense> Expenses { get; set; }
+    public class TravelMateDbContext : DbContext
+    {
+        // ✅ 仅保留真正需要数据库表映射的实体
+        public DbSet<User> Users { get; set; }
+        public DbSet<Itinerary> Itineraries { get; set; }
+        public DbSet<Event> Events { get; set; }
+        public DbSet<Budget> Budgets { get; set; }
+        public DbSet<Expense> Expenses { get; set; }
 
-		public TravelMateDbContext(DbContextOptions<TravelMateDbContext> options)
-			: base(options)
-		{
-		}
+        public TravelMateDbContext(DbContextOptions<TravelMateDbContext> options)
+            : base(options)
+        {
+        }
 
-		protected override void OnModelCreating(ModelBuilder modelBuilder)
-		{
-			base.OnModelCreating(modelBuilder);
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
 
-			// ✅ 明确设置数据库对应表名（可选）
-			modelBuilder.Entity<Itinerary>().ToTable("itinerary");
-			modelBuilder.Entity<Event>().ToTable("event");
-			modelBuilder.Entity<Budget>().ToTable("budget");
-			modelBuilder.Entity<Expense>().ToTable("expense");
+            // ✅ 明确设置数据库对应表名（可选）
+            modelBuilder.Entity<User>().ToTable("user");
+            modelBuilder.Entity<Itinerary>().ToTable("itinerary");
+            modelBuilder.Entity<Event>().ToTable("event");
+            modelBuilder.Entity<Budget>().ToTable("budget");
+            modelBuilder.Entity<Expense>().ToTable("expense");
 
-		}
-	}
+            // ✅ 配置 User 实体的字段映射
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).HasColumnName("ID").ValueGeneratedOnAdd();
+                entity.Property(e => e.OpenId).HasColumnName("openID");
+                entity.Property(e => e.Name).HasColumnName("name");
+                entity.Property(e => e.Gender).HasColumnName("gender");
+            });
+        }
+    }
 }

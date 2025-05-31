@@ -1,9 +1,11 @@
-﻿using TravelMate.Core.Entities;
+﻿using TravelMate.Core.DTOs;
 
 namespace TravelMate.Service.Interfaces
 {
-	public interface IUserService
-	{
-		User GetUserById(int userId);
-	}
+    public interface IUserService
+    {
+        Task<UserLoginResponseDto> LoginAsync(string code);
+        Task<int> UpdateUserAsync(UserUpdateDto userUpdateDto);
+        Task<UserResponseDto> GetUserByIdAsync(int userId);
+    }
 }

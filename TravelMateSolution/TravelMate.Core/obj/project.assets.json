@@ -595,19 +595,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\11198\\.nuget\\packages\\": {}
+    "C:\\Users\\35173\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TravelMateSolution\\TravelMate.Core\\TravelMate.Core.csproj",
+      "projectUniqueName": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Core\\TravelMate.Core.csproj",
       "projectName": "TravelMate.Core",
-      "projectPath": "E:\\TravelMateSolution\\TravelMate.Core\\TravelMate.Core.csproj",
-      "packagesPath": "C:\\Users\\11198\\.nuget\\packages\\",
-      "outputPath": "E:\\TravelMateSolution\\TravelMate.Core\\obj\\",
+      "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Core\\TravelMate.Core.csproj",
+      "packagesPath": "C:\\Users\\35173\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\11198\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\35173\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -615,6 +620,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -659,7 +665,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
