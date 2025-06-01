@@ -11,6 +11,7 @@ namespace TravelMate.Data
         public DbSet<Event> Events { get; set; }
         public DbSet<Budget> Budgets { get; set; }
         public DbSet<Expense> Expenses { get; set; }
+        public DbSet<Reminder> Reminders { get; set; }
 
         public TravelMateDbContext(DbContextOptions<TravelMateDbContext> options)
             : base(options)
@@ -27,16 +28,7 @@ namespace TravelMate.Data
             modelBuilder.Entity<Event>().ToTable("event");
             modelBuilder.Entity<Budget>().ToTable("budget");
             modelBuilder.Entity<Expense>().ToTable("expense");
-
-            // ✅ 配置 User 实体的字段映射
-            modelBuilder.Entity<User>(entity =>
-            {
-                entity.HasKey(e => e.Id);
-                entity.Property(e => e.Id).HasColumnName("ID").ValueGeneratedOnAdd();
-                entity.Property(e => e.OpenId).HasColumnName("openID");
-                entity.Property(e => e.Name).HasColumnName("name");
-                entity.Property(e => e.Gender).HasColumnName("gender");
-            });
+            modelBuilder.Entity<Reminder>().ToTable("reminder");
         }
     }
 }

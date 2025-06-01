@@ -1,0 +1,68 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly TravelMate.Interop, Version=0.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TravelMate.Interop.ManagedWeatherData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String ErrorMessage 'get set' : 
+    Boolean Success 'get set' : 
+    System.String Location 'get set' : 
+    System.String Date 'get set' : 
+    System.String Wind 'get set' : 
+    System.String Description 'get set' : 
+    Single MinTemperature 'get set' : 
+    Single MaxTemperature 'get set' : 
+  Methods:
+    get_MaxTemperature(): PrivateScope, Public, HideBySig, SpecialName
+    set_MaxTemperature(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_MinTemperature(): PrivateScope, Public, HideBySig, SpecialName
+    set_MinTemperature(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_Description(): PrivateScope, Public, HideBySig, SpecialName
+    set_Description(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Wind(): PrivateScope, Public, HideBySig, SpecialName
+    set_Wind(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Date(): PrivateScope, Public, HideBySig, SpecialName
+    set_Date(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Location(): PrivateScope, Public, HideBySig, SpecialName
+    set_Location(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Success(): PrivateScope, Public, HideBySig, SpecialName
+    set_Success(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_ErrorMessage(): PrivateScope, Public, HideBySig, SpecialName
+    set_ErrorMessage(String): PrivateScope, Public, HideBySig, SpecialName
+Class TravelMate.Interop.ManagedReminderData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Date 'get set' : 
+    Int32 UserId 'get set' : 
+    System.String Location 'get set' : 
+    System.String Time 'get set' : 
+    Int32 Id   'get set' : 
+  Methods:
+    get_Id(): PrivateScope, Public, HideBySig, SpecialName
+    set_Id(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Time(): PrivateScope, Public, HideBySig, SpecialName
+    set_Time(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Location(): PrivateScope, Public, HideBySig, SpecialName
+    set_Location(String): PrivateScope, Public, HideBySig, SpecialName
+    get_UserId(): PrivateScope, Public, HideBySig, SpecialName
+    set_UserId(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Date(): PrivateScope, Public, HideBySig, SpecialName
+    set_Date(String): PrivateScope, Public, HideBySig, SpecialName
+Class TravelMate.Interop.WeatherInterop: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetWeatherInfo(String, String): PrivateScope, Public, Static, HideBySig
+    ValidateReminderData(ManagedReminderData): PrivateScope, Public, Static, HideBySig
+    CalculateReminderHash(ManagedReminderData): PrivateScope, Public, Static, HideBySig
+    FormatWeatherDescription(String): PrivateScope, Public, Static, HideBySig
+    ParseWeatherJson(String, String): PrivateScope, Public, Static, HideBySig

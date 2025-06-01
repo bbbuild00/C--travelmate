@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelMate.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74edc89cf0f86359dc45c029844932e6c82b8bda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065e0c1a7cf48717d149beb529053a78faac5006")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelMate.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelMate.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

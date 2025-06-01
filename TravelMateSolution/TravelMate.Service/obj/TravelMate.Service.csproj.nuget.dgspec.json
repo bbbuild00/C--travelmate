@@ -164,6 +164,21 @@
         }
       }
     },
+    "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj",
+        "projectName": "TravelMate.Interop",
+        "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj",
+        "frameworks": {
+          "native": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
     "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Service\\TravelMate.Service.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -198,6 +213,9 @@
               },
               "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj": {
                 "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj"
+              },
+              "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj": {
+                "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj"
               }
             }
           }

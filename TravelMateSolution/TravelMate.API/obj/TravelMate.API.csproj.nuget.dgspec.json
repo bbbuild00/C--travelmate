@@ -33,6 +33,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj": {
+                "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj"
+              },
               "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Service\\TravelMate.Service.csproj": {
                 "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Service\\TravelMate.Service.csproj"
               }
@@ -54,13 +57,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.36, )"
             },
-            "Microsoft.EntityFrameworkCore.Relational": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.36, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -250,6 +259,21 @@
         }
       }
     },
+    "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj",
+        "projectName": "TravelMate.Interop",
+        "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj",
+        "frameworks": {
+          "native": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
     "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Service\\TravelMate.Service.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -284,6 +308,9 @@
               },
               "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj": {
                 "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj"
+              },
+              "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj": {
+                "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj"
               }
             }
           }

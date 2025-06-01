@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  WeatherInterop.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  WeatherInterop.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  TravelMate.Interop.vcxproj -> C:\Users\35173\Desktop\dotnet\final\C--travelmate\TravelMateSolution\x64\Debug\TravelMate.Interop.dll

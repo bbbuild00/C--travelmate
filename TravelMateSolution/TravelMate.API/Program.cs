@@ -40,6 +40,8 @@ builder.Services.AddScoped<IReportService, ReportService>();
 builder.Services.AddScoped<IIntRecService, IntRecService>();
 builder.Services.AddScoped<IZhipuAIService, ZhipuAIService>();
 builder.Services.AddScoped<IItineraryService, ItineraryService>();
+builder.Services.AddScoped<IWeatherService, WeatherService>();
+builder.Services.AddScoped<IReminderService, ReminderService>();
 
 var app = builder.Build();
 

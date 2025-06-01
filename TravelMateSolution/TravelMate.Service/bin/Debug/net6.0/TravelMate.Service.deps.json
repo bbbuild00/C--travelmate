@@ -11,7 +11,8 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.36",
           "Microsoft.Extensions.Http": "6.0.1",
           "TravelMate.Core": "1.0.0",
-          "TravelMate.Data": "1.0.0"
+          "TravelMate.Data": "1.0.0",
+          "TravelMate.Interop": "1.0.0"
         },
         "runtime": {
           "TravelMate.Service.dll": {}
@@ -223,6 +224,11 @@
         "runtime": {
           "TravelMate.Data.dll": {}
         }
+      },
+      "TravelMate.Interop/1.0.0": {
+        "runtime": {
+          "TravelMate.Interop.dll": {}
+        }
       }
     }
   },
@@ -364,6 +370,11 @@
       "sha512": ""
     },
     "TravelMate.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TravelMate.Interop/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -332,6 +332,15 @@
         "runtime": {
           "bin/placeholder/TravelMate.Data.dll": {}
         }
+      },
+      "TravelMate.Interop/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TravelMate.Interop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TravelMate.Interop.dll": {}
+        }
       }
     }
   },
@@ -738,6 +747,11 @@
       "type": "project",
       "path": "../TravelMate.Data/TravelMate.Data.csproj",
       "msbuildProject": "../TravelMate.Data/TravelMate.Data.csproj"
+    },
+    "TravelMate.Interop/1.0.0": {
+      "type": "project",
+      "path": "../TravelMate.Interop/TravelMate.Interop.vcxproj",
+      "msbuildProject": "../TravelMate.Interop/TravelMate.Interop.vcxproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -745,7 +759,8 @@
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.36",
       "Microsoft.Extensions.Http >= 6.0.1",
       "TravelMate.Core >= 1.0.0",
-      "TravelMate.Data >= 1.0.0"
+      "TravelMate.Data >= 1.0.0",
+      "TravelMate.Interop >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -786,6 +801,9 @@
             },
             "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj": {
               "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Data\\TravelMate.Data.csproj"
+            },
+            "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj": {
+              "projectPath": "C:\\Users\\35173\\Desktop\\dotnet\\final\\C--travelmate\\TravelMateSolution\\TravelMate.Interop\\TravelMate.Interop.vcxproj"
             }
           }
         }

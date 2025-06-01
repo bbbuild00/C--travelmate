@@ -1,0 +1,1 @@
+C:\Users\35173\Desktop\dotnet\final\C--travelmate\TravelMateSolution\TravelMate.Interop\x64\Debug\TravelMate.Interop.vcxproj.AssemblyReference.cache

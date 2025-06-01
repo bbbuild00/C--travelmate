@@ -15,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\TravelMate.Core\TravelMate.Core.csproj" />
     <ProjectReference Include="..\TravelMate.Data\TravelMate.Data.csproj" />
+    <ProjectReference Include="..\TravelMate.Interop\TravelMate.Interop.vcxproj" />
   </ItemGroup>
 
 </Project>
